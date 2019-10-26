@@ -28,8 +28,6 @@ Bpwsgen is a program that enables you to create secure passwords or lists of pas
 <h2>Examples</h2>
 
 <pre>
+<p></p>
 <h3>Basic Example</h3>
-<code>
-JAVA pwsgen.pwsgen 12 4 /u /l /d
-</code>
-</pre>
+<code>JAVA pwsgen.pwsgen 12 4 /u /l /d</code>
