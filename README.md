@@ -24,7 +24,6 @@ Save 20 passwords to the clipboard.
 
 <pre>
 <code>
-    <b>Options::</b>
 Optional flags - general
  /L Lowercase letters [a..z]
  /U Uppercase letters [A..Z]
