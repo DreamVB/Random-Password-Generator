@@ -9,6 +9,12 @@ Bpwsgen is a program that enables you to create secure passwords or lists of pas
   JAVA pwsgen.pwsgen 12 4 /u /l /d
 </code>
 
+<h4>More Examples</h4>
+Save 20 passwords to a output file.
+<code>JAVA pwsgen.pwsgen 12 20 /u /l /d /n -v > passwords.txt</code>
+
+
+
 <h4>Create a strong password with optional options</h4>
 
 <pre>
@@ -24,7 +30,4 @@ Bpwsgen is a program that enables you to create secure passwords or lists of pas
        -c Do not include constants.
 </code
 </pre>
-</br>
-Examples
-<code>JAVA pwsgen.pwsgen 12 4 /u /l /d</code>
 
