@@ -13,7 +13,10 @@ Bpwsgen is a program that enables you to create secure passwords or lists of pas
 Save 20 passwords to a output file.
 </br>
 <code>JAVA pwsgen.pwsgen 12 20 /u /l /d /n -v > passwords.txt</code>
-
+<p></p>
+Save 20 passwords to the clipboard.
+</br>
+<code>JAVA pwsgen.pwsgen 12 20 /u /l /d /n -v | Clip
 
 
 <h4>Create a strong password with optional options</h4>
