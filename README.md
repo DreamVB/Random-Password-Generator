@@ -1,5 +1,6 @@
-# Strong Password Generator
-Bpwsgen is a program that enables you to create secure passwords or lists of passwords. All that is required is a length and the count to be created, You also have nine optional options that can be used to style the output of the passwords.
+# Random-Password-Generator
+
+pwsgen is a program that enables you to create secure passwords or lists of passwords. All that is required is a length and the count to be created, You also have nine optional options that can be used to style the output of the passwords.
 
 <h2>Usage</h2>
 
