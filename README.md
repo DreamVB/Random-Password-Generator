@@ -25,14 +25,18 @@ Save 20 passwords to the clipboard.
 <pre>
 <code>
     <b>Options::</b>
-       /U Include upper case characters A-Z
-       /L Include lower case characters a-z
-       /D Include digits 0-9
-       /H Include hexadecimal characters.
-       /S Include space character.
-       /N Include number each line.
-       -v Do not include vowels.
-       -c Do not include constants.
+Optional flags - general
+ /L Lowercase letters [a..z]
+ /U Uppercase letters [A..Z]
+ /D Digits [0..9]
+ /S Include special chars.
+ /H Output password in hexadecimal.
+ /N Include line numbers.
+ /b64 Encode each password as a Base64 string.
+
+Other - flags
+ -v Remove all vowels from password.
+ -v Remove all constants from password.
 </code
 </pre>
 
