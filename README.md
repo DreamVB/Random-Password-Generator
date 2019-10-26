@@ -24,7 +24,7 @@ Bpwsgen is a program that enables you to create secure passwords or lists of pas
        -c Do not include constants.
 </code
 </pre>
-
+</br>
 Examples
 <code>JAVA pwsgen.pwsgen 12 4 /u /l /d</code>
 
